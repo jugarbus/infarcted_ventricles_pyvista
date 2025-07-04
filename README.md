@@ -46,8 +46,8 @@ pip install pyvista
 ```
 
 ## About the data
-Core Surface.vtk: Mesh of the infarct core region.
 
-Border Zone Surface.vtk: Mesh of the transitional infarct border zone.
+- **Core Surface.vtk:** Mesh of the infarct core region.
+- **Border Zone Surface.vtk:** Mesh of the transitional infarct border zone.
+- **ventricle_Tagged.vtk:** Mesh of the entire ventricle tagged with scalar values (`DistEndoToEpi`), used for scalar visualization and threshold filtering.
 
-ventricle_Tagged.vtk: Mesh of the entire ventricle tagged with scalar values (DistEndoToEpi), used for scalar visualization and threshold filtering.
