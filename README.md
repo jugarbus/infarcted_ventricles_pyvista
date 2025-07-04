@@ -43,8 +43,9 @@ pip install pyvista
 │   └── ventricle_Tagged.vtk
 │
 └── your_script_name.py
+```
 
-About the data
+## About the data
 Core Surface.vtk: Mesh of the infarct core region.
 
 Border Zone Surface.vtk: Mesh of the transitional infarct border zone.
